@@ -1,7 +1,7 @@
 ### Hi This is Özgür 👋
 
 
-![snake svg](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/zgrk/zgrk/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
