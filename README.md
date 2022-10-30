@@ -10,7 +10,7 @@
 
 **ZgrK/zgrk** 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zgrk&layout=compact)](
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zgrk&layout=compact)
 
 
 ^Zgrk
