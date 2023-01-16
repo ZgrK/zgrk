@@ -52,7 +52,7 @@
 
 ## GitStats   
  
-![Zgrk's GitHub stats](https://github-readme-stats.vercel.app/api?username=zgrk)
+![Zgrk's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=zgrk)
 
  
 </td><td valign="top" width="50%">
