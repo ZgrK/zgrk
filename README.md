@@ -43,6 +43,7 @@
 <br>
 <div align=center>
 <a href="https://twitter.com/zgrkaralar"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/zgrkaralar?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a> &nbsp;
+ <img alt="Profile View" src="https://komarev.com/ghpvc/?username=zgrk">
 </div>
 <br>
 
