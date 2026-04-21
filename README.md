@@ -5,7 +5,6 @@
 <a href="https://twitter.com/zgrkaralar"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter" width="38"/></a>
 &ensp;<a href="https://www.linkedin.com/in/zgrkaralar/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="LinkedIn" width="30"/></a>
 &ensp;<a href="https://unbelievable.digital"><img src="https://img.shields.io/badge/Website-unbelievable.digital-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" height="30"/></a>
-&ensp;<a href="mailto:"><img src="https://img.shields.io/badge/Email--EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
 
 <br/>
 
