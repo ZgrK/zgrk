@@ -25,7 +25,6 @@
 name:        Özgür Karalar
 alias:       Ozzy
 role:        Co-founder & CTO @ Unbelievable.Digital
-location:    Turkey 🇹🇷
 degree:      Computer Engineering
 focus:       automation, performance, scalable web
 open_source: WordPress Core contributor
